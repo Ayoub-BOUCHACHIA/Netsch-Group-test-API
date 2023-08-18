@@ -1,0 +1,1 @@
+BASE_URL = 'https://hire-game.netsach.dev/'
